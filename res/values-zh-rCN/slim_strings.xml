@@ -103,20 +103,20 @@
 
     <!-- Advanced Settings -->
     <string name="advanced_setting">高级设置</string>
-    <string name="vibrate_outgoing">回复振动</string>
+    <string name="vibrate_outgoing">回拨振动</string>
     <string name="vibrate_call_waiting">呼叫等待时振动</string>
     <string name="vibrate_hangup">挂断震动</string>
-    <string name="vibrate_45">每分钟振动</string>
-    <string name="vibrate_45_sum">在拨出电话后每分钟45秒振动频率</string>
-    <string name="rejected_as_missed">拒绝来电未接</string>
-    <string name="rejected_as_missed_sum">标记拒绝呼叫为 \'错过的\' 而不是 \'来电\' 在通话记录里面</string>
+    <string name="vibrate_45">每分钟振动频率</string>
+    <string name="vibrate_45_sum">拨出电话后每分钟45秒振动频率</string>
+    <string name="rejected_as_missed">拒绝未接来电</string>
+    <string name="rejected_as_missed_sum">在通话记录中标记拒接来电为 \'错过的\' 而不是 \'来电\' </string>
     <string name="show_ssn_label">事件通知</string>
     <string name="show_ssn_summary">显示呼叫处理各种网络事件的通知</string>
     <string name="calllog_after_call">通话后有通话记录</string>
     <string name="calllog_after_call_summary">结束通话后显示通话记录</string>
 
     <!-- Noise suppression -->
-    <string name="noise_suppression_title">降噪</string>
+    <string name="noise_suppression_title">通话降噪</string>
     <string name="noise_suppression_summary">开启通话中降噪</string>
     <!-- End Noise suppression -->
 
@@ -172,7 +172,7 @@
     <string name="voice_quality_entry_bright">亮</string>
 
     <!-- Transparent in call widget -->
-    <string name="transparent_in_call_widget">呼叫屏幕透明</string>
+    <string name="transparent_in_call_widget">呼叫联系人图片显示</string>
     <string name="transparent_in_call_widget_summary">显示来电联系人图片</string>
 
     <!-- Incoming call in background -->
